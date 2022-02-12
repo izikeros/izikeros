@@ -10,6 +10,6 @@
 
 
 
-My name is Krystian Safjan and I'm a AI/ML Implementation Manager AT Ernst&Young. I love programming and things related to computers and networks.
+My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young. I love programming and things related to computers and networks.
 
 ✍️ Sometimes I write on my [blog](http://safjan.com).
