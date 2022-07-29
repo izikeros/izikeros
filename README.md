@@ -17,5 +17,5 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 - [Trading algorithms and trading strategies](https://www.safjan.com/trading-algorithms/)
 - [Lesser Known Backtesting Libraries](https://www.safjan.com/lesser-known-backtesting-libraries/)
 - [Append JSON data to file, save the traces](https://www.safjan.com/append-json-data-to-file-save-traces/)
-- [Auto documented makefile](https://www.safjan.com/auto-documented-makefile/)
+- [Bash - determine if script runs on Linux, macOS or other system](https://www.safjan.com/bash-determine-if-linux-or-macos/)
 <!-- BLOG-POST-LIST:END -->
