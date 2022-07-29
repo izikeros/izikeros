@@ -16,6 +16,6 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 <!-- BLOG-POST-LIST:START -->
 - [Trading algorithms and trading strategies](https://www.safjan.com/trading-algorithms/)
 - [Lesser Known Backtesting Libraries](https://www.safjan.com/lesser-known-backtesting-libraries/)
-- [Change the character encoding](https://www.safjan.com/change-character-encoding/)
-- [Check text file encoding](https://www.safjan.com/check-text-file-encoding/)
+- [Append JSON data to file, save the traces](https://www.safjan.com/append-json-data-to-file-save-traces/)
+- [Auto documented makefile](https://www.safjan.com/auto-documented-makefile/)
 <!-- BLOG-POST-LIST:END -->
