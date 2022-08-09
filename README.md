@@ -14,8 +14,8 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Install Photoprism on QNAP NAS using Docker Compose](https://www.safjan.com/install-photoprism-on-qnap-nas-using-docker-compose/)
 - [Trading algorithms and trading strategies](https://www.safjan.com/trading-algorithms/)
 - [Lesser Known Backtesting Libraries](https://www.safjan.com/lesser-known-backtesting-libraries/)
 - [Append JSON data to file, save the traces](https://www.safjan.com/append-json-data-to-file-save-traces/)
-- [Bash - determine if script runs on Linux, macOS or other system](https://www.safjan.com/bash-determine-if-linux-or-macos/)
 <!-- BLOG-POST-LIST:END -->
