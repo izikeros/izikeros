@@ -14,8 +14,8 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [List unlinked &lpar;orphaned&rpar; notes in Obsidian](https://www.safjan.com/list-unlinked-orphaned-notes-obsidian/)
-- [Reading CSV with Obsidian dataview and dataview js](https://www.safjan.com/reading-csv-with-obsidian-dataview-dataviewjs/)
-- [Install Photoprism on QNAP NAS using Docker Compose](https://www.safjan.com/install-photoprism-on-qnap-nas-using-docker-compose/)
-- [Trading algorithms and trading strategies](https://www.safjan.com/trading-algorithms/)
+- [List unlinked &lpar;orphaned&rpar; notes in Obsidian](https://www.safjan.com/list-unlinked-orphaned-notes-obsidian/)
+- [Reading CSV with Obsidian dataview and dataviewjs](https://www.safjan.com/reading-csv-with-obsidian-dataview-dataviewjs/)
+- [Install Photoprism on QNAP NAS using Docker Compose](https://www.safjan.com/install-photoprism-on-qnap-nas-using-docker-compose/)
+- [Trading algorithms and trading strategies](https://www.safjan.com/trading-algorithms/)
 <!-- BLOG-POST-LIST:END -->
