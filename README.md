@@ -1,22 +1,16 @@
 ### Hi! Welcome!
+
+<!-- INTRO -->
+<p>My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young. I love programming and things related to computers and networks.</p>
+
+<!-- TECHNOLOGIES AND STATS -->
 <center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izikeros&show_icons=true&locale=en&layout=compact" alt="izikeros" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izikeros&count_private=true&show_icons=true" alt="izikeros" width="410" /></p>
-<!--
-  <table>
-    <tr>
-         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izikeros&hide=html,TeX,Jupyter Notebook,CSS,JavaScript&layout=compact&theme=radical" /></td> 
-        <td><img align='right' src="https://github-readme-stats.vercel.app/api?username=izikeros&show_icons=true&theme=radical" width="380"></td>
-    </tr>
-  </table>
--->
 </center>
 
-
-
-My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young. I love programming and things related to computers and networks.
-
+<!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
 - [Write a syslog entry from a bash script](https://www.safjan.com/write-a-syslog-entry-from-a-bash-script/)
@@ -25,6 +19,6 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 - [List unlinked &lpar;orphaned&rpar; notes in Obsidian](https://www.safjan.com/list-unlinked-orphaned-notes-obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- TROPHY -->
 <br />
-
 <img src="https://github-profile-trophy.vercel.app/?username=izikeros&theme=nord&no-frame=true&margin-w=10&column=7" />
