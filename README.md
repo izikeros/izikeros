@@ -1,11 +1,16 @@
 ### Hi! Welcome!
 <center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izikeros&show_icons=true&locale=en&layout=compact" alt="izikeros" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izikeros&count_private=true&show_icons=true" alt="izikeros" width="410" /></p>
+<!--
   <table>
     <tr>
-        <!-- <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izikeros&hide=html,TeX,Jupyter Notebook,CSS,JavaScript&layout=compact&theme=radical" /></td> -->
+         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izikeros&hide=html,TeX,Jupyter Notebook,CSS,JavaScript&layout=compact&theme=radical" /></td> 
         <td><img align='right' src="https://github-readme-stats.vercel.app/api?username=izikeros&show_icons=true&theme=radical" width="380"></td>
     </tr>
   </table>
+-->
 </center>
 
 
