@@ -14,8 +14,8 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Write a syslog entry from a bash script](https://www.safjan.com/write-a-syslog-entry-from-a-bash-script/)
 - [How to convert HTML to clean markdown](https://www.safjan.com/how-to-convert-html-to-clean-markdown/)
 - [The Best Self-Hosted, Open Source RSS Feed Readers in 2022](https://www.safjan.com/the-best-self-hosted-rss-feed-readers-in-2022/)
 - [List unlinked &lpar;orphaned&rpar; notes in Obsidian](https://www.safjan.com/list-unlinked-orphaned-notes-obsidian/)
-- [Reading CSV with Obsidian dataview and dataviewjs](https://www.safjan.com/reading-csv-with-obsidian-dataview-dataviewjs/)
 <!-- BLOG-POST-LIST:END -->
