@@ -2,7 +2,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izikeros&hide=html,TeX,Jupyter Notebook,CSS,JavaScript&layout=compact&theme=radical" /></td>
+        <!-- <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izikeros&hide=html,TeX,Jupyter Notebook,CSS,JavaScript&layout=compact&theme=radical" /></td> -->
         <td><img align='right' src="https://github-readme-stats.vercel.app/api?username=izikeros&show_icons=true&theme=radical" width="380"></td>
     </tr>
   </table>
