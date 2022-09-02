@@ -24,3 +24,7 @@ My name is Krystian Safjan and I'm a AI/ML Implementation Manager at Ernst&Young
 - [The Best Self-Hosted, Open Source RSS Feed Readers in 2022](https://www.safjan.com/the-best-self-hosted-rss-feed-readers-in-2022/)
 - [List unlinked &lpar;orphaned&rpar; notes in Obsidian](https://www.safjan.com/list-unlinked-orphaned-notes-obsidian/)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=izikeros&theme=nord&no-frame=true&margin-w=10&column=7" />
