@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Lesser-known, yet powerful python plotting libraries](https://www.safjan.com/lesser-known-yet-powerful-python-plotting-libraries/)
+- [Difference between numba jit and njit decorators](https://www.safjan.com/difference-between-numba-jit-and-njit-decorators/)
+- [What is the difference between Matthews correlation coefficient and F1 metrics](https://www.safjan.com/what-is-the-difference-between-matthews-correlation-coefficient-and-f1-metrics/)
 - [Tutorial - Install Calibre web on QNAP NAS](https://www.safjan.com/install-calibre-web-qnap-nas-tutorial/)
-- [Automated signal segmentation, trend detection, and classification](https://www.safjan.com/automated-trend-detection-and-signal-segmentation/)
-- [Write a syslog entry from a bash script](https://www.safjan.com/write-a-syslog-entry-from-a-bash-script/)
-- [How to convert HTML to clean markdown](https://www.safjan.com/how-to-convert-html-to-clean-markdown/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
