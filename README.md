@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [10 scikit-learn exercises for aspiring data scientists](https://www.safjan.com/10-scikit-learn-exercises-for-aspiring-data-scientists/)
 - [&quot;Grammar of graphics&quot; explained like to 5yo.](https://www.safjan.com/grammar-of-graphics/)
-- [Visual Text Exploration as Part of Preprocessing Before Classification](https://www.safjan.com/visual-text-exploration-as-part-of-preprocessing-before-classification/)
-- [10 Lesser-known, yet powerful python plotting libraries](https://www.safjan.com/lesser-known-yet-powerful-python-plotting-libraries/)
 - [Difference between numba jit and njit decorators](https://www.safjan.com/difference-between-numba-jit-and-njit-decorators/)
+- [What is the difference between Matthews correlation coefficient and F1 metrics](https://www.safjan.com/what-is-the-difference-between-matthews-correlation-coefficient-and-f1-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
