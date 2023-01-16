@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [10 scikit-learn exercises for aspiring data scientists](https://www.safjan.com/10-scikit-learn-exercises-for-aspiring-data-scientists/)
-- [&quot;Grammar of graphics&quot; explained like to 5yo.](https://www.safjan.com/grammar-of-graphics/)
-- [Difference between numba jit and njit decorators](https://www.safjan.com/difference-between-numba-jit-and-njit-decorators/)
-- [What is the difference between Matthews correlation coefficient and F1 metrics](https://www.safjan.com/what-is-the-difference-between-matthews-correlation-coefficient-and-f1-metrics/)
+- [Deploying MLFlow on Local Machine using Docker](https://www.safjan.com/deploying-mlflow-on-local-machine-using-docker/)
+- [The difference between Machine Learning Development and traditional Software Development](https://www.safjan.com/machine-learning-vs-software_development/)
+- [When Bayesian methods are not the best option?](https://www.safjan.com/when-the-bayesian-methods-are-not-the-best-option/)
+- [How to experiment with MLFlow locally on laptop or PC? Instructions for the local setup.](https://www.safjan.com/how-to-experiment-with-mlflow-locally-on-laptop-or-pc/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
