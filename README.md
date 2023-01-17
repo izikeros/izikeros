@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Deploying MLFlow on Local Machine using Docker](https://www.safjan.com/deploying-mlflow-on-local-machine-using-docker/)
-- [The difference between Machine Learning Development and traditional Software Development](https://www.safjan.com/machine-learning-vs-software_development/)
-- [When Bayesian methods are not the best option?](https://www.safjan.com/when-the-bayesian-methods-are-not-the-best-option/)
-- [How to experiment with MLFlow locally on laptop or PC? Instructions for the local setup.](https://www.safjan.com/how-to-experiment-with-mlflow-locally-on-laptop-or-pc/)
+- [Creating Command Line Tools from Machine Learning Models](https://www.safjan.com/creating-command-line-tools-from-machine-learning-models/)
+- [3 Pieces of Popular MLOps Advice to Ignore — and What to Do Instead](https://www.safjan.com/pieces-of-popular%20mlops-advice-to-ignore-what-to-do-instead/)
+- [What are the most popular private services that people decide to self-host?](https://www.safjan.com/self-hosted-private-services/)
+- [The Benefits of Packaging an ML Model as a Python PEX File](https://www.safjan.com/the-benefits-of-packaging-an-ml-model-as-a-python-pex-file/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
