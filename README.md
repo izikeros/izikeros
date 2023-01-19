@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Histogram intersection](https://www.safjan.com/histogram-intersection/)
+- [Tools that Helps to Understand and Tweak Random Forest Classifier](https://www.safjan.com/random-forest-understand-and-tweak/)
+- [How to use the Polish WordNet in Python?](https://www.safjan.com/How-to-use-Polish-wordnet-in-python/)
 - [Creating Command Line Tools from Machine Learning Models](https://www.safjan.com/creating-command-line-tools-from-machine-learning-models/)
-- [3 Pieces of Popular MLOps Advice to Ignore — and What to Do Instead](https://www.safjan.com/pieces-of-popular%20mlops-advice-to-ignore-what-to-do-instead/)
-- [What are the most popular private services that people decide to self-host?](https://www.safjan.com/self-hosted-private-services/)
-- [The Benefits of Packaging an ML Model as a Python PEX File](https://www.safjan.com/the-benefits-of-packaging-an-ml-model-as-a-python-pex-file/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
