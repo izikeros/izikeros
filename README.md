@@ -14,9 +14,9 @@
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
 - [Common Types of Data Science Projects](https://www.safjan.com/common-types-of-data-science-projects/)
-- [Evaluation of interpretability for Explainable AI](https://www.safjan.com/evaluation-of-interpretability-for-explainable-ai/)
 - [Histogram intersection](https://www.safjan.com/histogram-intersection/)
 - [Tools that Helps to Understand and Tweak Random Forest Classifier](https://www.safjan.com/random-forest-understand-and-tweak/)
+- [How to use the Polish WordNet in Python?](https://www.safjan.com/How-to-use-Polish-wordnet-in-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
