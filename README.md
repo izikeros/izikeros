@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Common Types of Data Science Projects](https://www.safjan.com/common-types-of-data-science-projects/)
-- [Histogram intersection](https://www.safjan.com/histogram-intersection/)
-- [Tools that Helps to Understand and Tweak Random Forest Classifier](https://www.safjan.com/random-forest-understand-and-tweak/)
-- [How to use the Polish WordNet in Python?](https://www.safjan.com/How-to-use-Polish-wordnet-in-python/)
+- [Top popular Zsh plugins on GitHub &lpar;2023&rpar;](https://www.safjan.com/top-popular-zsh-plugins-on-github-2023/)
+- [Becoming a Data Wizard: The Benefits of Learning Databricks](https://www.safjan.com/why-to-learn-databricks/)
+- [Which method of model packaging should I used?](https://www.safjan.com/methods-for-python-ml-models-packaging-and-deployment/)
+- [MLOps scorecard - How advanced is your organization in implementing MLOps processes?](https://www.safjan.com/mlops-scorecard/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
