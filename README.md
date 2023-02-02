@@ -16,7 +16,7 @@
 - [Using markmap mindmap diagrams in Pelican Blog](https://www.safjan.com/markmap-mindmap-in-pelican-blog/)
 - [The Pros and Cons of Reliance on AI Generative Models](https://www.safjan.com/pros-and-cons-of-reliance-on-ai-generating-models/)
 - [Writing A Book Or Ebook In Markdown](https://www.safjan.com/writing-a-book-or-ebook-in-markdown/)
-- [Leveraging Language Models in Corporate Environments: The Future of Knowledge Management](https://www.safjan.com/language-models-for-knowledge-management-in-corporate/)
+- [The Impact of Search Engines and AI Generative Models on Mental and Cognitive Capabilities](https://www.safjan.com/impact_of_google_search_and_llms_on_methal_capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
