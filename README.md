@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [The Pros and Cons of Reliance on AI Generative Models](https://www.safjan.com/pros-and-cons-of-reliance-on-ai-generating-models/)
+- [Writing A Book Or Ebook In Markdown](https://www.safjan.com/writing-a-book-or-ebook-in-markdown/)
+- [Leveraging Language Models in Corporate Environments: The Future of Knowledge Management](https://www.safjan.com/language-models-for-knowledge-management-in-corporate/)
 - [Top popular Zsh plugins on GitHub &lpar;2023&rpar;](https://www.safjan.com/top-popular-zsh-plugins-on-github-2023/)
-- [Becoming a Data Wizard: The Benefits of Learning Databricks](https://www.safjan.com/why-to-learn-databricks/)
-- [Which method of model packaging should I used?](https://www.safjan.com/methods-for-python-ml-models-packaging-and-deployment/)
-- [MLOps scorecard - How advanced is your organization in implementing MLOps processes?](https://www.safjan.com/mlops-scorecard/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
