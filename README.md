@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Beat Overfitting in Kaggle Competitions: Proven Techniques](https://www.safjan.com/avoiding-overfitting-in-Kaggle-competitions/)
 - [Using markmap mindmap diagrams in Pelican Blog](https://www.safjan.com/markmap-mindmap-in-pelican-blog/)
 - [New Cognitive Skills in the Age of AI Tailored Information Presentation](https://www.safjan.com/pros-and-cons-of-reliance-on-ai-generating-models/)
 - [Writing A Book Or Ebook In Markdown](https://www.safjan.com/writing-a-book-or-ebook-in-markdown/)
-- [The Impact of Search Engines and AI Generative Models on Mental and Cognitive Capabilities](https://www.safjan.com/impact_of_google_search_and_llms_on_methal_capabilities/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
