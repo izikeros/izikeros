@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Datasets for embeddings performance evaluation](https://www.safjan.com/datasets-for-embeddings-evaluation/)
-- [Simplifying Software Complexity: 10 Tips](https://www.safjan.com/software-complexity-at-the-minimum-level/)
-- [Beat Overfitting in Kaggle Competitions: Proven Techniques](https://www.safjan.com/avoiding-overfitting-in-Kaggle-competitions/)
-- [Using markmap mindmap diagrams in Pelican Blog](https://www.safjan.com/markmap-mindmap-in-pelican-blog/)
+- [Beyond Airflow - 5 Workflow Tools You Need to Know](https://www.safjan.com/alternatives-to-apache-airflow/)
+- [How to change the size of matplotlib figure?](https://www.safjan.com/how-to-change-the-size-of-matplotlib-figure/)
+- [How to rename one or more columns in pandas dataframe?](https://www.safjan.com/how-to-rename-one-or-more-columns-in-pandas-dataframe/)
+- [How to select rows from a DataFrame based on column values](https://www.safjan.com/how-to-select-rows-from-DataFrame-based-on-column-values/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
