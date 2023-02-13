@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [A guide to building a Python RPC server using Flask](https://www.safjan.com/guide-building-python-rpc-server-using-flask/)
 - [How to use RPC in python?](https://www.safjan.com/how-to-use-rpc-in-python/)
+- [Comprehensive guide interpreting R², MSE, and RMSE for regression models.](https://www.safjan.com/interpreting-r2-mse-rmse-for-regression-models/)
 - [How to Set the Range of the Y Axis in Plotly?](https://www.safjan.com/plotly-how-to-set-y-axis-range/)
-- [How to set transparent background for plotly plot?](https://www.safjan.com/plotly_transparent_background/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
