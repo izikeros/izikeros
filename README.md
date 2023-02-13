@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Airflow - 5 Workflow Tools You Need to Know](https://www.safjan.com/alternatives-to-apache-airflow/)
-- [How to change the size of matplotlib figure?](https://www.safjan.com/how-to-change-the-size-of-matplotlib-figure/)
-- [How to rename one or more columns in pandas dataframe?](https://www.safjan.com/how-to-rename-one-or-more-columns-in-pandas-dataframe/)
-- [How to select rows from a DataFrame based on column values](https://www.safjan.com/how-to-select-rows-from-DataFrame-based-on-column-values/)
+- [A guide to building a Python RPC server using Flask](https://www.safjan.com/guide-building-python-rpc-server-using-flask/)
+- [How to use RPC in python?](https://www.safjan.com/how-to-use-rpc-in-python/)
+- [How to Set the Range of the Y Axis in Plotly?](https://www.safjan.com/plotly-how-to-set-y-axis-range/)
+- [How to set transparent background for plotly plot?](https://www.safjan.com/plotly_transparent_background/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
