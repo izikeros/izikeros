@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Black - change max line length](https://www.safjan.com/black-change-max-line-length/)
-- [Jupyte Notebook duplicated locations for nbextensions](https://www.safjan.com/jupyter-duplicated-nbextensions-locations/)
-- [A guide to building a Python RPC server using Flask](https://www.safjan.com/guide-building-python-rpc-server-using-flask/)
-- [How to use RPC in python?](https://www.safjan.com/how-to-use-rpc-in-python/)
+- [List of features with strongest correlation](https://www.safjan.com/features-with-strong-correlation/)
+- [Explainable AI - Anchor Explanations](https://www.safjan.com/anchor-explanations/)
+- [Checks and Data preprocessing steps before applying PCA](https://www.safjan.com/before-pca/)
+- [Understanding AI with ELI5 - Demystifying Decisions &lpar;tutorial&rpar;](https://www.safjan.com/eli5-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
