@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [List of features with strongest correlation](https://www.safjan.com/features-with-strong-correlation/)
-- [Explainable AI - Anchor Explanations](https://www.safjan.com/anchor-explanations/)
-- [Checks and Data preprocessing steps before applying PCA](https://www.safjan.com/before-pca/)
-- [Understanding AI with ELI5 - Demystifying Decisions &lpar;tutorial&rpar;](https://www.safjan.com/eli5-tutorial/)
+- [How to save numpy array to file?](https://www.safjan.com/how-to-save-numpy-array-to-file/)
+- [Plot inside plot with Matplotlib](https://www.safjan.com/plot-in-plot-matplot-lib/)
+- [Which Python Code Formatter is Better: Black or yapf?](https://www.safjan.com/black-vs-yapf/)
+- [Rethinking the Link Between Speech and Expertise](https://www.safjan.com/illusion-of-expertise/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
