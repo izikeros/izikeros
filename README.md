@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [The best Linux distributions for old x86 laptop to have windows-like look and feel.](https://www.safjan.com/linux-for-old-x86-laptop-windows-like/)
 - [How to save numpy array to file?](https://www.safjan.com/how-to-save-numpy-array-to-file/)
 - [Plot inside plot with Matplotlib](https://www.safjan.com/plot-in-plot-matplot-lib/)
 - [Which Python Code Formatter is Better: Black or yapf?](https://www.safjan.com/black-vs-yapf/)
-- [Rethinking the Link Between Speech and Expertise](https://www.safjan.com/illusion-of-expertise/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
