@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [The best Linux distributions for old x86 laptop to have windows-like look and feel.](https://www.safjan.com/linux-for-old-x86-laptop-windows-like/)
-- [How to save numpy array to file?](https://www.safjan.com/how-to-save-numpy-array-to-file/)
-- [Plot inside plot with Matplotlib](https://www.safjan.com/plot-in-plot-matplot-lib/)
-- [Which Python Code Formatter is Better: Black or yapf?](https://www.safjan.com/black-vs-yapf/)
+- [RSS vs. the Emerging Web Standards - Which Will Reign Supreme?](https://www.safjan.com/emerging-alternatives-to-rss/)
+- [Future-Proofing RSS - Key Changes and Technical Solutions to Keep the Web Feed Format Relevant](https://www.safjan.com/future-changes-to-rss/)
+- [Future of RSS](https://www.safjan.com/future-of-rss/)
+- [Git - sign previous commit](https://www.safjan.com/git-sign-previous-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
