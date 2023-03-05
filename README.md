@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Eval in Bash Script with Arguments Implemented as Functions](https://www.safjan.com/bash-script-with-arguments-implemented-as-functions/)
 - [RSS vs. the Emerging Web Standards - Which Will Reign Supreme?](https://www.safjan.com/emerging-alternatives-to-rss/)
 - [Future-Proofing RSS - Key Changes and Technical Solutions to Keep the Web Feed Format Relevant](https://www.safjan.com/future-changes-to-rss/)
 - [Future of RSS](https://www.safjan.com/future-of-rss/)
-- [Git - sign previous commit](https://www.safjan.com/git-sign-previous-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
