@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Eval in Bash Script with Arguments Implemented as Functions](https://www.safjan.com/bash-script-with-arguments-implemented-as-functions/)
-- [RSS vs. the Emerging Web Standards - Which Will Reign Supreme?](https://www.safjan.com/emerging-alternatives-to-rss/)
-- [Future-Proofing RSS - Key Changes and Technical Solutions to Keep the Web Feed Format Relevant](https://www.safjan.com/future-changes-to-rss/)
-- [Future of RSS](https://www.safjan.com/future-of-rss/)
+- [ActivityPub - how it works and how to use it?](https://www.safjan.com/activitypub-how-it-works-how-to-use-it/)
+- [Federated Social Web Manifesto](https://www.safjan.com/federated-social-web-manifesto/)
+- [Rustification of Python](https://www.safjan.com/rustification-of-python/)
+- [What is the difference between MLOps and ModelOps?](https://www.safjan.com/what-is-the-difference-between-mlops-and-modelops/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
