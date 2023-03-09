@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Python - is there any difference between attribute and property?](https://www.safjan.com/python-difference-betwee-attribute-and-property/)
+- [The difference between class attribute or property and the class variable](https://www.safjan.com/the-difference-between-class-attribute-or-property-and-the-class-variable/)
+- [yapf toml package is needed for using pyproject.toml as a configuration file](https://www.safjan.com/yapf-toml-package-is-needed-for-using-pyproject-toml-as-a-configuration%20-file/)
 - [ActivityPub - how it works and how to use it?](https://www.safjan.com/activitypub-how-it-works-how-to-use-it/)
-- [Federated Social Web Manifesto](https://www.safjan.com/federated-social-web-manifesto/)
-- [Rustification of Python](https://www.safjan.com/rustification-of-python/)
-- [What is the difference between MLOps and ModelOps?](https://www.safjan.com/what-is-the-difference-between-mlops-and-modelops/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
