@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Punctuation restoration](https://www.safjan.com/punctuation-restoration/)
+- [Salt and pepper in the context of hashing/obfuscation](https://www.safjan.com/salt-and-pepper-for-hashing/)
 - [Python - is there any difference between attribute and property?](https://www.safjan.com/python-difference-betwee-attribute-and-property/)
 - [The difference between class attribute or property and the class variable](https://www.safjan.com/the-difference-between-class-attribute-or-property-and-the-class-variable/)
-- [yapf toml package is needed for using pyproject.toml as a configuration file](https://www.safjan.com/yapf-toml-package-is-needed-for-using-pyproject-toml-as-a-configuration%20-file/)
-- [ActivityPub - how it works and how to use it?](https://www.safjan.com/activitypub-how-it-works-how-to-use-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
