@@ -14,9 +14,9 @@
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
 - [Contextual Understanding in Automated Speech-to-Text Transcription: Machine Learning Techniques and Challenges](https://www.safjan.com/contextual_understanding-speech-to-text/)
+- [How to prepare python project to pass it over to another developer](https://www.safjan.com/how_to_prepare_python_project_to_pass_it_over_to_another_developer/)
 - [Punctuation restoration](https://www.safjan.com/punctuation-restoration/)
 - [Salt and pepper in the context of hashing/obfuscation](https://www.safjan.com/salt-and-pepper-for-hashing/)
-- [Python - is there any difference between attribute and property?](https://www.safjan.com/python-difference-betwee-attribute-and-property/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
