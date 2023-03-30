@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Contextual Understanding in Automated Speech-to-Text Transcription: Machine Learning Techniques and Challenges](https://www.safjan.com/contextual_understanding-speech-to-text/)
 - [Punctuation restoration](https://www.safjan.com/punctuation-restoration/)
 - [Salt and pepper in the context of hashing/obfuscation](https://www.safjan.com/salt-and-pepper-for-hashing/)
 - [Python - is there any difference between attribute and property?](https://www.safjan.com/python-difference-betwee-attribute-and-property/)
-- [The difference between class attribute or property and the class variable](https://www.safjan.com/the-difference-between-class-attribute-or-property-and-the-class-variable/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
