@@ -14,9 +14,9 @@
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
 - [Python - named tuples or dictionaries to store structured data?](https://www.safjan.com/named-tuples-vs-dictionaries/)
+- [Python - how to make type hint for the tuple with undetermined number of strings?](https://www.safjan.com/type-hint-for-undetermined-number-of-elements/)
+- [How to use elypsis in type hints to indicate arbitrary number of elements](https://www.safjan.com/type-hints-elypsis-for-arbitrary-number-of-elements/)
 - [Git - annotated vs. lightweight tags](https://www.safjan.com/git-annotated-vs-lightweight-tags/)
-- [Contextual Understanding in Automated Speech-to-Text Transcription: Machine Learning Techniques and Challenges](https://www.safjan.com/contextual_understanding-speech-to-text/)
-- [How to prepare python project to pass it over to another developer](https://www.safjan.com/how_to_prepare_python_project_to_pass_it_over_to_another_developer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
