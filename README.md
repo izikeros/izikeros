@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy FreshRSS in the cloud for free on Azure?](https://www.safjan.com/how-to-deploy-freshrss-in-the-cloud-for-free-on-azure/)
+- [How to deploy FreshRSS in the cloud for free on GCP?](https://www.safjan.com/how-to-deploy-freshrss-in-the-cloud-for-free-on-gcp/)
 - [Zero-knowledge explained like to 5 uears old.](https://www.safjan.com/zero-knowledge-for-5yo/)
 - [Python - named tuples or dictionaries to store structured data?](https://www.safjan.com/named-tuples-vs-dictionaries/)
-- [Python - how to make type hint for the tuple with undetermined number of strings?](https://www.safjan.com/type-hint-for-undetermined-number-of-elements/)
-- [How to use elypsis in type hints to indicate arbitrary number of elements](https://www.safjan.com/type-hints-elypsis-for-arbitrary-number-of-elements/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
