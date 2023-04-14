@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Convert HEIC and HEIF to jpg, png, bmp with Python](https://www.safjan.com/convert-heic-and-heif-to-jpg-png-bmp-with-python/)
 - [Explaining AI - The Key Differences Between LIME and SHAP Methods](https://www.safjan.com/explaining-ai-the-key-differences-between-lime-and-shap-methods/)
-- [Federated Social Web](https://www.safjan.com/federated-social-web/)
 - [Smaller Files, Better Quality: The Advantages of HEIF and HEIC](https://www.safjan.com/heif-and-heic-format-for-images-and-video/)
+- [Understanding how the LIME method for explainable AI works.](https://www.safjan.com/how-the-lime-method-for-explainable-ai-works/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
