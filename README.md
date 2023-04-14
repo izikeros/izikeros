@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Convert HEIC and HEIF to jpg, png, bmp with Python](https://www.safjan.com/convert-heic-and-heif-to-jpg-png-bmp-with-python/)
+- [Smaller Files, Better Quality: The Advantages of HEIF and HEIC](https://www.safjan.com/heif-and-heic-format-for-images-and-video/)
 - [How to deploy FreshRSS in the cloud for free on Azure?](https://www.safjan.com/how-to-deploy-freshrss-in-the-cloud-for-free-on-azure/)
 - [How to deploy FreshRSS in the cloud for free on GCP?](https://www.safjan.com/how-to-deploy-freshrss-in-the-cloud-for-free-on-gcp/)
-- [Zero-knowledge explained like to 5 uears old.](https://www.safjan.com/zero-knowledge-for-5yo/)
-- [Python - named tuples or dictionaries to store structured data?](https://www.safjan.com/named-tuples-vs-dictionaries/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
