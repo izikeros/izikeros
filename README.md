@@ -14,9 +14,9 @@
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
 - [Convert HEIC and HEIF to jpg, png, bmp with Python](https://www.safjan.com/convert-heic-and-heif-to-jpg-png-bmp-with-python/)
+- [Explaining AI - The Key Differences Between LIME and SHAP Methods](https://www.safjan.com/explaining-ai-the-key-differences-between-lime-and-shap-methods/)
+- [Federated Social Web](https://www.safjan.com/federated-social-web/)
 - [Smaller Files, Better Quality: The Advantages of HEIF and HEIC](https://www.safjan.com/heif-and-heic-format-for-images-and-video/)
-- [How to deploy FreshRSS in the cloud for free on Azure?](https://www.safjan.com/how-to-deploy-freshrss-in-the-cloud-for-free-on-azure/)
-- [How to deploy FreshRSS in the cloud for free on GCP?](https://www.safjan.com/how-to-deploy-freshrss-in-the-cloud-for-free-on-gcp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
