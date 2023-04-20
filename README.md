@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Getting the User&#39;s Home Directory Path in Python: A Cross-Platform Guide](https://www.safjan.com/python-user-home-directory/)
+- [Python regex named groups](https://www.safjan.com/python-regex-named-groups/)
 - [Convert HEIC and HEIF to jpg, png, bmp with Python](https://www.safjan.com/convert-heic-and-heif-to-jpg-png-bmp-with-python/)
 - [Explaining AI - The Key Differences Between LIME and SHAP Methods](https://www.safjan.com/explaining-ai-the-key-differences-between-lime-and-shap-methods/)
-- [Smaller Files, Better Quality: The Advantages of HEIF and HEIC](https://www.safjan.com/heif-and-heic-format-for-images-and-video/)
-- [LIME - Understanding How This Method for Explainable AI Works](https://www.safjan.com/how-the-lime-method-for-explainable-ai-works/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
