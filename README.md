@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Kanban Method: Unveiling the Hidden Gems of Effective Kanban Board Usage](https://www.safjan.com/mastering-kanban-method/)
 - [Getting the User&#39;s Home Directory Path in Python: A Cross-Platform Guide](https://www.safjan.com/python-user-home-directory/)
 - [Python regex named groups](https://www.safjan.com/python-regex-named-groups/)
 - [Convert HEIC and HEIF to jpg, png, bmp with Python](https://www.safjan.com/convert-heic-and-heif-to-jpg-png-bmp-with-python/)
-- [Explaining AI - The Key Differences Between LIME and SHAP Methods](https://www.safjan.com/explaining-ai-the-key-differences-between-lime-and-shap-methods/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
