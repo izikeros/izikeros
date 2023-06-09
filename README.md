@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [The Role and Responsibilities of a Forward Deployed Engineer - Bridging the Gap between Software Products and Customer Needs](https://www.safjan.com/the-role-and-responsibilities-of-a-forward-deployed-engineer/)
 - [The best vector databases for storing embeddings](https://www.safjan.com/the-best-vector-databases-for-storing-embeddings/)
 - [Mastering the Kanban Method: Unveiling the Hidden Gems of Effective Kanban Board Usage](https://www.safjan.com/mastering-kanban-method/)
 - [Getting the User&#39;s Home Directory Path in Python: A Cross-Platform Guide](https://www.safjan.com/python-user-home-directory/)
-- [Python regex named groups](https://www.safjan.com/python-regex-named-groups/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
