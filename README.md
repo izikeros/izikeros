@@ -15,8 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Extracting keywords from the user query](https://www.safjan.com/extracting-keywords-from-the-user-query/)
 - [The Role and Responsibilities of a Forward Deployed Engineer - Bridging the Gap between Software Products and Customer Needs](https://www.safjan.com/the-role-and-responsibilities-of-a-forward-deployed-engineer/)
-- [The best vector databases for storing embeddings](https://www.safjan.com/the-best-vector-databases-for-storing-embeddings/)
-- [Mastering the Kanban Method: Unveiling the Hidden Gems of Effective Kanban Board Usage](https://www.safjan.com/mastering-kanban-method/)
+- [How to count tokens?](https://www.safjan.com/how-to-count-tokens/)
+- [Similarity search using IVFPQ](https://www.safjan.com/similarity-search-using-ivfpq/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
