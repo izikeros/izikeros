@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Perplexity: Assessing Dimensionality Reduction with PCA](https://www.safjan.com/demystifying-perplexity-assessing-dimensionality-reduction-with-pca/)
+- [Understanding Bhattacharyya Distance and Coefficient for Probability Distributions](https://www.safjan.com/understanding-bhattacharyya-distance-and-coefficient-for-probability-distributions/)
 - [Script to Python package using Poetry &lpar;and PyCharm&rpar;](https://www.safjan.com/script-to-python-package-using-poetry-and-pycharm/)
 - [Bash - rename multiple image files to match pattern with sequence number](https://www.safjan.com/bash-rename-mutliple-image-files-to-match-pattern-with-sequence-number/)
-- [Extracting keywords from the user query](https://www.safjan.com/extracting-keywords-from-the-user-query/)
-- [The Role and Responsibilities of a Forward Deployed Engineer - Bridging the Gap between Software Products and Customer Needs](https://www.safjan.com/the-role-and-responsibilities-of-a-forward-deployed-engineer/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
