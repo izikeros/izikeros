@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying Perplexity: Assessing Dimensionality Reduction with PCA](https://www.safjan.com/demystifying-perplexity-assessing-dimensionality-reduction-with-pca/)
-- [Understanding Bhattacharyya Distance and Coefficient for Probability Distributions](https://www.safjan.com/understanding-bhattacharyya-distance-and-coefficient-for-probability-distributions/)
-- [Script to Python package using Poetry &lpar;and PyCharm&rpar;](https://www.safjan.com/script-to-python-package-using-poetry-and-pycharm/)
-- [Bash - rename multiple image files to match pattern with sequence number](https://www.safjan.com/bash-rename-mutliple-image-files-to-match-pattern-with-sequence-number/)
+- [Software Versioning Schemes](https://www.safjan.com/software-versioning-schemes/)
+- [How to install Faiss on Google Colab](https://www.safjan.com/how-to-install-faiss-on-google-colab/)
+- [Text Vectorization with VectorHub and Sentence Transformers](https://www.safjan.com/text-vectorization-with-vectorhub-and-sentence-transformers/)
+- [Introducing a Python Module for Splitting Text into Parts based on Token Limit](https://www.safjan.com/token-split-text/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
