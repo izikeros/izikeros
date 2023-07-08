@@ -15,7 +15,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Software Versioning Schemes](https://www.safjan.com/software-versioning-schemes/)
 - [How to install Faiss on Google Colab](https://www.safjan.com/how-to-install-faiss-on-google-colab/)
-- [Text Vectorization with VectorHub and Sentence Transformers](https://www.safjan.com/text-vectorization-with-vectorhub-and-sentence-transformers/)
+- [Easy Text Vectorization with VectorHub and Sentence Transformers](https://www.safjan.com/text-vectorization-with-vectorhub-and-sentence-transformers/)
 - [Introducing a Python Module for Splitting Text into Parts based on Token Limit](https://www.safjan.com/token-split-text/)
 <!-- BLOG-POST-LIST:END -->
 
