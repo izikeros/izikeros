@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Boosting Productivity and Automation with AppleScript on macOS](https://www.safjan.com/Boosting%20Productivity%20and%20Automation%20with%20AppleScript%20on%20macOS/)
+- [Display a Notification on the Screen in macOS](https://www.safjan.com/display-a-notification-on-the-screen-in-macos/)
 - [Software Versioning Schemes](https://www.safjan.com/software-versioning-schemes/)
 - [How to install Faiss on Google Colab](https://www.safjan.com/how-to-install-faiss-on-google-colab/)
-- [Easy Text Vectorization with VectorHub and Sentence Transformers](https://www.safjan.com/text-vectorization-with-vectorhub-and-sentence-transformers/)
-- [Introducing a Python Module for Splitting Text into Parts based on Token Limit](https://www.safjan.com/token-split-text/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
