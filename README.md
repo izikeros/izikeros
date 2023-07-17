@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Creating a PowerPoint Presentation with a Language Model](https://www.safjan.com/creating-a-powerpoint-presentation-with-a-language-model/)
 - [Mastering Temporary Files and Directories with Python&#39;s tempfile Module](https://www.safjan.com/mastering-temporary-files-and-directories-with-python-tempfile-module/)
 - [Exploring Python Packages for Loading and Processing YAML Front Matter in Markdown Documents](https://www.safjan.com/python-packages-yaml-front-matter-markdown/)
 - [Boosting Productivity and Automation With AppleScript on macOS](https://www.safjan.com/Boosting%20Productivity%20and%20Automation%20with%20AppleScript%20on%20macOS/)
-- [Display a Notification on the Screen in macOS](https://www.safjan.com/display-a-notification-on-the-screen-in-macos/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
