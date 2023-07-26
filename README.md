@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Alternatives for Building Python CLI Apps](https://www.safjan.com/alternatives_for_building_python_cli_apps/)
-- [Creating a PowerPoint Presentation with a Language Model](https://www.safjan.com/creating-a-powerpoint-presentation-with-a-language-model/)
-- [Mastering Temporary Files and Directories with Python&#39;s tempfile Module](https://www.safjan.com/mastering-temporary-files-and-directories-with-python-tempfile-module/)
-- [Exploring Python Packages for Loading and Processing YAML Front Matter in Markdown Documents](https://www.safjan.com/python-packages-yaml-front-matter-markdown/)
+- [Cookiecutters for the python package with poetry](https://www.safjan.com/cookiecutter-for-the-python-package-with-poetry/)
+- [Simplifying Data Download from Google Drive in Google Colab Using gdown](https://www.safjan.com/download-data-google-drive-colab-gdown/)
+- [Add VSCode to PATH](https://www.safjan.com/add-vscode-to-path/)
+- [Coding practices - limiting number of lines in single file](https://www.safjan.com/coding-practices-limiting-number-of-lines-in-file/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
