@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [gitignore-style exclusion for restic](https://www.safjan.com/gitignore-style-exclusion-for-restic/)
+- [Python Virtual Environments - Choosing Between Project-based and Centralized Approach](https://www.safjan.com/python-virtual-environments-choosing-between-project-based-and-centralized-approach/)
 - [Cookiecutters for the python package with poetry](https://www.safjan.com/cookiecutter-for-the-python-package-with-poetry/)
 - [Simplifying Data Download from Google Drive in Google Colab Using gdown](https://www.safjan.com/download-data-google-drive-colab-gdown/)
-- [Add VSCode to PATH](https://www.safjan.com/add-vscode-to-path/)
-- [Coding practices - limiting number of lines in single file](https://www.safjan.com/coding-practices-limiting-number-of-lines-in-file/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
