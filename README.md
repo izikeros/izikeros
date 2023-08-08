@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Discovery in the Context of Large Language Models &lpar;LLMs&rpar; and Prompt Engineering](https://www.safjan.com/prompt_discivery-large-language-models-llms-prompt-engineering/)
 - [Azure OpenAI Langchain configuration](https://www.safjan.com/azure-openai-langchain-configuration/)
 - [gitignore-style exclusion for restic](https://www.safjan.com/gitignore-style-exclusion-for-restic/)
 - [Python Virtual Environments - Choosing Between Project-based and Centralized Approach](https://www.safjan.com/python-virtual-environments-choosing-between-project-based-and-centralized-approach/)
-- [Cookiecutters for the python package with poetry](https://www.safjan.com/cookiecutter-for-the-python-package-with-poetry/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
