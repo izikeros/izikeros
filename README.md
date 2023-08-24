@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Bearer Token Authentication for API](https://www.safjan.com/bearer-token-authentication-for-api/)
+- [Understanding Retrieval-Augmented Generation &lpar;RAG&rpar; empowering LLMs](https://www.safjan.com/understanding-retrieval-augmented-generation-rag-empowering-llms/)
 - [Create Self-Hosted Python Package Repository - General Guide](https://www.safjan.com/Create%20Self-Hosted%20Python%20Package%20Repository/)
 - [Cookiecutter alternatives](https://www.safjan.com/cookiecutter-alternatives/)
-- [Lesser-known Python Package Repository Managers](https://www.safjan.com/lesser-known-python-package-repository-managers/)
-- [Split glued or joined words](https://www.safjan.com/split-glued-or-joined-words/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
