@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [10 Problems with Langchain and how to minimize their impact](https://www.safjan.com/10-problems-with-Langchain-and-how-to-minimize-their-impact/)
 - [Jaro-Winkler Similarity](https://www.safjan.com/jaro-winkler-similarity/)
 - [Bearer Token Authentication for API](https://www.safjan.com/bearer-token-authentication-for-api/)
 - [Understanding Retrieval-Augmented Generation &lpar;RAG&rpar; empowering LLMs](https://www.safjan.com/understanding-retrieval-augmented-generation-rag-empowering-llms/)
-- [Create Self-Hosted Python Package Repository - General Guide](https://www.safjan.com/Create%20Self-Hosted%20Python%20Package%20Repository/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
