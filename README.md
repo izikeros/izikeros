@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [How Agile Can Kill Creativity in Data Science team?](https://www.safjan.com/how-agile-can-kill-creativity-in-data-science-team/)
 - [The Right Way to Job-Hop](https://www.safjan.com/the-right-way-to-job-hop/)
 - [LangChain RecursiveCharacterTextSplitter - Split by Tokens instead of characters](https://www.safjan.com/langchain-recursivecharactertextsplitter-split-by-tokens-instead-of-characters/)
 - [Jaro-Winkler Similarity](https://www.safjan.com/jaro-winkler-similarity/)
-- [Bearer Token Authentication for API](https://www.safjan.com/bearer-token-authentication-for-api/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
