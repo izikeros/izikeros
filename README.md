@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [The Right Way to Job-Hop](https://www.safjan.com/the-right-way-to-job-hop/)
 - [LangChain RecursiveCharacterTextSplitter - Split by Tokens instead of characters](https://www.safjan.com/langchain-recursivecharactertextsplitter-split-by-tokens-instead-of-characters/)
 - [Jaro-Winkler Similarity](https://www.safjan.com/jaro-winkler-similarity/)
 - [Bearer Token Authentication for API](https://www.safjan.com/bearer-token-authentication-for-api/)
-- [Understanding Retrieval-Augmented Generation &lpar;RAG&rpar; empowering LLMs](https://www.safjan.com/understanding-retrieval-augmented-generation-rag-empowering-llms/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
