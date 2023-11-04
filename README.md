@@ -14,9 +14,9 @@
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
 - [Prompt Discovery](https://www.safjan.com/prompt-discovery/)
+- [Techniques to Boost RAG Performance in Production](https://www.safjan.com/techniques-to-boost-rag-performance-in-production/)
 - [Python Expertise Level - Self-Assessment](https://www.safjan.com/python-expertise-level-self-assessment/)
 - [Understanding the Differences in Language Models - Transformers vs. Markov Models](https://www.safjan.com/understanding-differences-gpt-transformers-markov-models/)
-- [How Agile Can Kill Creativity in Data Science team?](https://www.safjan.com/how-agile-can-kill-creativity-in-data-science-team/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
