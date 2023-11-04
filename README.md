@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Discovery](https://www.safjan.com/prompt-discovery/)
 - [Python Expertise Level - Self-Assessment](https://www.safjan.com/python-expertise-level-self-assessment/)
 - [Understanding the Differences in Language Models - Transformers vs. Markov Models](https://www.safjan.com/understanding-differences-gpt-transformers-markov-models/)
 - [How Agile Can Kill Creativity in Data Science team?](https://www.safjan.com/how-agile-can-kill-creativity-in-data-science-team/)
-- [The Right Way to Job-Hop](https://www.safjan.com/the-right-way-to-job-hop/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
