@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Choosing technology for the LLM knowledge graph](https://www.safjan.com/choosing-technology-for-the-lmm-knowledge-graph/)
 - [Prompt Discovery](https://www.safjan.com/prompt-discovery/)
 - [Techniques to Boost RAG Performance in Production](https://www.safjan.com/techniques-to-boost-rag-performance-in-production/)
 - [Python Expertise Level - Self-Assessment](https://www.safjan.com/python-expertise-level-self-assessment/)
-- [Understanding the Differences in Language Models - Transformers vs. Markov Models](https://www.safjan.com/understanding-differences-gpt-transformers-markov-models/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
