@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [RAG-Fusion - Enhancing Information Retrieval in Large Language Models](https://www.safjan.com/rag-fusion-enhancing-information-retrieval-in-large-language-models/)
+- [What Is the Key Difference Between PCA and SVD?](https://www.safjan.com/what-is-the-key-difference-between-pca-and-svd/)
 - [Choosing technology for the LLM knowledge graph](https://www.safjan.com/choosing-technology-for-the-lmm-knowledge-graph/)
 - [Prompt Discovery](https://www.safjan.com/prompt-discovery/)
-- [Techniques to Boost RAG Performance in Production](https://www.safjan.com/techniques-to-boost-rag-performance-in-production/)
-- [Python Expertise Level - Self-Assessment](https://www.safjan.com/python-expertise-level-self-assessment/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
