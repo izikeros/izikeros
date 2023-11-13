@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [RAG-Fusion - Enhancing Information Retrieval in Large Language Models](https://www.safjan.com/rag-fusion-enhancing-information-retrieval-in-large-language-models/)
-- [What Is the Key Difference Between PCA and SVD?](https://www.safjan.com/what-is-the-key-difference-between-pca-and-svd/)
-- [Choosing technology for the LLM knowledge graph](https://www.safjan.com/choosing-technology-for-the-lmm-knowledge-graph/)
-- [Prompt Discovery](https://www.safjan.com/prompt-discovery/)
+- [Store Output of the Command Into Array in Bash](https://www.safjan.com/store-output-of-the-command-into-array-in-bash/)
+- [The Importance of Adding a `py.typed` File to Your Typed Package](https://www.safjan.com/the-importance-of-adding-py-typed-file-to-your-typed-package/)
+- [In the Python project made with Poetry shall I add poetry.lock to the git repo or ignore it?](https://www.safjan.com/python-project-with-Poetry-add-poetry-lock-to-the-git-repo-or-ignore-it/)
+- [Git change remote origin &lpar;replace with new&rpar;](https://www.safjan.com/Git-change-remote-origin-replace-with-new/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
