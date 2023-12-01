@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Semantic Type Detection](https://www.safjan.com/semantic-type-detection/)
+- [Table Representation Learning](https://www.safjan.com/table-representation-learning/)
 - [Using Mermaid Diagrams in Pelican Blog Post](https://www.safjan.com/mermaid-in-pelican-post/)
 - [Store Output of the Command Into Array in Bash](https://www.safjan.com/store-output-of-the-command-into-array-in-bash/)
-- [The Importance of Adding a `py.typed` File to Your Typed Package](https://www.safjan.com/the-importance-of-adding-py-typed-file-to-your-typed-package/)
-- [In the Python project made with Poetry shall I add poetry.lock to the git repo or ignore it?](https://www.safjan.com/python-project-with-Poetry-add-poetry-lock-to-the-git-repo-or-ignore-it/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
