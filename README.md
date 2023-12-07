@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Search Techniques](https://www.safjan.com/github-search-techniques/)
+- [Databricks Curriculum - From Zero to Hero](https://www.safjan.com/databricks-curriculum-from-zero-to-hero/)
+- [Databricks - key concepts](https://www.safjan.com/databricks-key-concepts/)
 - [Semantic Type Detection](https://www.safjan.com/semantic-type-detection/)
-- [Table Representation Learning](https://www.safjan.com/table-representation-learning/)
-- [Using Mermaid Diagrams in Pelican Blog Post](https://www.safjan.com/mermaid-in-pelican-post/)
-- [Store Output of the Command Into Array in Bash](https://www.safjan.com/store-output-of-the-command-into-array-in-bash/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
