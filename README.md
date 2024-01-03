@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [entr - run arbitrary command when files change](https://www.safjan.com/entr-run-arbitrary-command-when-files-change/)
 - [Tverski Similarity Metrics](https://www.safjan.com/tverski-similarity-metrics/)
 - [GitHub Search Techniques](https://www.safjan.com/github-search-techniques/)
 - [Databricks Curriculum - From Zero to Hero](https://www.safjan.com/databricks-curriculum-from-zero-to-hero/)
-- [Databricks - key concepts](https://www.safjan.com/databricks-key-concepts/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
