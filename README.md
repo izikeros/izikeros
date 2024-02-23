@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Open Source LLM Observability Tools and Platforms](https://www.safjan.com/open-source-llm-observability-tools-and-platforms/)
 - [The Most Powerful Mac Productivity and Automation Apps](https://www.safjan.com/the-most-powerful-mac-productivity-and-automation-apps/)
 - [Avoid using curl -u “username:secret”!](https://www.safjan.com/avoid-using-curl-u-usernamesecret/)
 - [HTML5 interactive elements](https://www.safjan.com/html5-interactive-elements/)
-- [entr - run arbitrary command when files change](https://www.safjan.com/entr-run-arbitrary-command-when-files-change/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
