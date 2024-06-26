@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Improving Code Maintainability - When to Use Standalone Functions Over Static Methods in Python](https://www.safjan.com/improving-code-maintainability-when-to-use-standalone-functions-over-static/)
+- [Mastering kwargs in Python - Best Practices for Experienced Developers](https://www.safjan.com/mastering-kwargs-in-python-best-practices-for-experienced-developers/)
 - [RAGAS metrics cheat sheet](https://www.safjan.com/ragas-metrics-cheat-sheet/)
 - [Use Decouple With Pydantic or Python Dataclass to Manage Configuration in Python App](https://www.safjan.com/use-decouple-with-pydantic-or-python-dataclass-to-manage-configuration-in-py/)
-- [OSI Approved in license metadata for Python project](https://www.safjan.com/osi-approved-in-license-metadata-for-python-project/)
-- [GitHub - Troubleshooting &#39;Permission to repo.git denied to user&#39;](https://www.safjan.com/github-permission-to-repogit-denied-to-user/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
