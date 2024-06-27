@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Remove Noise From Screen Recording](https://www.safjan.com/remove-noise-from-screen-recording/)
+- [Measuring Quality and Quantity of Unit Tests in Python Projects - Advanced Strategies](https://www.safjan.com/measuring-quality-and-quantity-of-unit-tests-in-python-projects-advanced-strategies/)
 - [Improving Code Maintainability - When to Use Standalone Functions Over Static Methods in Python](https://www.safjan.com/improving-code-maintainability-when-to-use-standalone-functions-over-static/)
 - [Mastering kwargs in Python - Best Practices for Experienced Developers](https://www.safjan.com/mastering-kwargs-in-python-best-practices-for-experienced-developers/)
-- [RAGAS metrics cheat sheet](https://www.safjan.com/ragas-metrics-cheat-sheet/)
-- [Use Decouple With Pydantic or Python Dataclass to Manage Configuration in Python App](https://www.safjan.com/use-decouple-with-pydantic-or-python-dataclass-to-manage-configuration-in-py/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
