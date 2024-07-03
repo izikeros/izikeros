@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [How does QLoRA works?](https://www.safjan.com/how-does-qlora-works/)
+- [How to Check Latest Version of Python Package?](https://www.safjan.com/how-to-check-latest-version-of-python-package/)
+- [How to Create Animated Gif From Matplotlib Plot in Python?](https://www.safjan.com/how-to-create-animated-gif-from-matplotlib-plot-in-python/)
 - [Remove Noise From Screen Recording](https://www.safjan.com/remove-noise-from-screen-recording/)
-- [Measuring Quality and Quantity of Unit Tests in Python Projects - Advanced Strategies](https://www.safjan.com/measuring-quality-and-quantity-of-unit-tests-in-python-projects-advanced-strategies/)
-- [Improving Code Maintainability - When to Use Standalone Functions Over Static Methods in Python](https://www.safjan.com/improving-code-maintainability-when-to-use-standalone-functions-over-static/)
-- [Mastering kwargs in Python - Best Practices for Experienced Developers](https://www.safjan.com/mastering-kwargs-in-python-best-practices-for-experienced-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
