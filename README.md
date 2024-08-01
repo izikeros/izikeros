@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Bash Parameter Expansion With Default Value](https://www.safjan.com/bash-parameter-expansion-with-default-value/)
+- [Rss Traffic Analysis for a Blog](https://www.safjan.com/rss-traffic-analysis-for-a-blog/)
 - [Borda Count vs. Reciprocal Rank - Choosing the Right Ranking Method for Your Data](https://www.safjan.com/borda-count-vs-reciprocal-rank/)
 - [RankFlow plot for retriever visual evaluation](https://www.safjan.com/rankflow-plot-for-retriever-visual-evaluation/)
-- [How does QLoRA works?](https://www.safjan.com/how-does-qlora-works/)
-- [How to Check Latest Version of Python Package?](https://www.safjan.com/how-to-check-latest-version-of-python-package/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
