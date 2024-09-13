@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Notes on using ripgrep for projects with python, jupyter &lpar;ipynb&rpar; notebooks and markdown files](https://www.safjan.com/notes-on-using-ripgrep-for-projects-with-python-jupyter-ipynb-notebooks-and/)
 - [VSCode problem - import could not be resolved from the source &lpar;Pylance&rpar;](https://www.safjan.com/vscode-problem-import-could-not-be-resolved-from-the-source-pylance/)
 - [How to Remove Diacritics and Sanitize Strings in Python](https://www.safjan.com/how-to-remove-diacritics-and-sanitize-strings-in-python/)
 - [Implementing Sentence Boundary Detection in Python for Improved Text Chunking](https://www.safjan.com/implementing-sentence-boundary-detection-in-python-for-improved-text-chunkin/)
-- [Bash Parameter Expansion With Default Value](https://www.safjan.com/bash-parameter-expansion-with-default-value/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
