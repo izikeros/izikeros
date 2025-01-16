@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Simple In-Memory Knowledge Graphs for Quick Graph Querying](https://www.safjan.com/simple-inmemory-knowledge-graphs-for-quick-graph-querying/)
 - [Quick Ways to Disable GitHub Actions Workflows Without Deletion](https://www.safjan.com/quick-ways-to-disable-github-actions-workflows-without-deletion/)
 - [Pandas Categorical - Benefits and Use Cases](https://www.safjan.com/pandas-categorical-benefits-and-use-cases/)
 - [Audio Notifications in Jupyter Notebooks Across Platforms](https://www.safjan.com/audio-notifications-in-jupyter-notebooks-across-platforms/)
-- [Notes on using ripgrep for projects with python, jupyter &lpar;ipynb&rpar; notebooks and markdown files](https://www.safjan.com/notes-on-using-ripgrep-for-projects-with-python-jupyter-ipynb-notebooks-and/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
