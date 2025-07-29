@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Using OpenAI Python SDK with Local Ollama Models &lpar;and When to Opt for Alternatives&rpar;](https://www.safjan.com/openai-python-sdk-with-local-ollama-models-and-alternatives/)
 - [Building a Multi-Notebook Report with Quarto](https://www.safjan.com/building-a-multinotebook-report-with-quarto/)
 - [Downgrade or Upgrade Your Python Version with uv](https://www.safjan.com/downgrade-or-upgrade-your-python-version-with-uv/)
 - [Beyond Coverage - Building Truly Complete Test Suites with GitHub Copilot](https://www.safjan.com/beyond-coverage-building-truly-complete-test-suites-with-github-copilot/)
-- [Understanding Python&#39;s `copy` vs `deepcopy` - When to Use Each](https://www.safjan.com/understanding-pythons-copy-vs-deepcopy-when-to-use-each/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
