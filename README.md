@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
-- [Replacing Makefile with Invoke for Cross-Platform Python Tasks](https://www.safjan.com/replacing-makefile-with-invoke-for-crossplatform-python-tasks/)
-- [Using OpenAI Python SDK with Local Ollama Models &lpar;and When to Opt for Alternatives&rpar;](https://www.safjan.com/openai-python-sdk-with-local-ollama-models-and-alternatives/)
-- [Building a Multi-Notebook Report with Quarto](https://www.safjan.com/building-a-multinotebook-report-with-quarto/)
-- [Downgrade or Upgrade Your Python Version with uv](https://www.safjan.com/downgrade-or-upgrade-your-python-version-with-uv/)
+- [Bare Asterisk in Python Function Signatures - Keyword Only Arguments](https://www.safjan.com/bare-asterisk-in-python-function-signatures/)
+- [Simpler Parallelism with concurrent.futures](https://www.safjan.com/concurrent-futures-simpler-parallelism/)
+- [Threading vs Multiprocessing in Python - GIL Implications and Choosing the Right Tool](https://www.safjan.com/threading-vs-multiprocessing-gil-implications/)
+- [asyncio Basics - async/await and When to Actually Use Them](https://www.safjan.com/asyncio-basics-async-await-when-to-use/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
