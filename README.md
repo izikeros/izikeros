@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Using CSS Variables for Dynamic and Reusable Styling](https://www.safjan.com/css-variables-dynamic-reusable-styling/)
 - [Bare Asterisk in Python Function Signatures - Keyword Only Arguments](https://www.safjan.com/bare-asterisk-in-python-function-signatures/)
 - [Simpler Parallelism with concurrent.futures](https://www.safjan.com/concurrent-futures-simpler-parallelism/)
 - [Threading vs Multiprocessing in Python - GIL Implications and Choosing the Right Tool](https://www.safjan.com/threading-vs-multiprocessing-gil-implications/)
-- [asyncio Basics - async/await and When to Actually Use Them](https://www.safjan.com/asyncio-basics-async-await-when-to-use/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
