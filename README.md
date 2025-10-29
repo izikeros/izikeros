@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Python Protocols - Structural Subtyping in Practice](https://www.safjan.com/python-protocols-structural-subtyping/)
 - [Evolution of Type Hints in Python — From Comments to Inline Typing and Beyond](https://www.safjan.com/evolution-of-type-hints-in-python/)
+- [Keeping performance results in a separate Git branch using `git checkout --orphan`](https://www.safjan.com/git-checkout-orphan-gh-pages-performance-results/)
 - [Understanding the Language Server Protocol through a Minimal Working Example](https://www.safjan.com/language-server-protocol-minimal-example/)
-- [Using CSS Variables for Dynamic and Reusable Styling](https://www.safjan.com/css-variables-dynamic-reusable-styling/)
-- [Bare Asterisk in Python Function Signatures - Keyword Only Arguments](https://www.safjan.com/bare-asterisk-in-python-function-signatures/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
