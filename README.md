@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Working Faster with Git Worktrees and AI-Based Multi-Workflow Development](https://www.safjan.com/git-worktrees-ai-multi-workflows/)
+- [Using Git Worktrees as Clean Rooms for AI-Assisted Coding](https://www.safjan.com/git-worktrees-for-ai-coding/)
 - [Avoiding Homebrew Upgrades That Require Sudo on macOS](https://www.safjan.com/avoid-homebrew-sudo-upgrades/)
 - [Understanding Python Protocols - Structural Subtyping in Practice](https://www.safjan.com/python-protocols-structural-subtyping/)
-- [Evolution of Type Hints in Python — From Comments to Inline Typing and Beyond](https://www.safjan.com/evolution-of-type-hints-in-python/)
-- [Keeping performance results in a separate Git branch using `git checkout --orphan`](https://www.safjan.com/git-checkout-orphan-gh-pages-performance-results/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
