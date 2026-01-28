@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [The limiting factor at work isn&#39;t writing code anymore](https://www.safjan.com/the-limiting-factor-at-work-isnt-writing-code-anymore/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 - [Using MLflow-RAGAS Integration Without Tracing](https://www.safjan.com/using-mlflowragas-integration-without-tracing/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 - [RAG Evaluation with RAGAS and MLflow - A Practical Guide](https://www.safjan.com/ragas-mlflow-rag-evaluation-tutorial/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 - [Working Faster with Git Worktrees and AI-Based Multi-Workflow Development](https://www.safjan.com/git-worktrees-ai-multi-workflows/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
-- [Using Git Worktrees as Clean Rooms for AI-Assisted Coding](https://www.safjan.com/git-worktrees-for-ai-coding/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
