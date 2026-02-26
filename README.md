@@ -13,10 +13,10 @@
 <!-- MY WRITINGS -->
 ✍️ Sometimes I write on my [blog](http://safjan.com) - see last articles:
 <!-- BLOG-POST-LIST:START -->
+- [Version Your Vectors - Index Versioning as the Missing Layer in RAG Observability and Compliance](https://www.safjan.com/version-your-vectors-index-versioning-as-the-missing-layer-in-rag/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 - [Publishing a Python CLI Tool to Homebrew](https://www.safjan.com/publishing-python-cli-tool-to-homebrew/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 - [The limiting factor at work isn&#39;t writing code anymore](https://www.safjan.com/the-limiting-factor-at-work-isnt-writing-code-anymore/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 - [Using MLflow-RAGAS Integration Without Tracing](https://www.safjan.com/using-mlflowragas-integration-without-tracing/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
-- [RAG Evaluation with RAGAS and MLflow - A Practical Guide](https://www.safjan.com/ragas-mlflow-rag-evaluation-tutorial/?utm_source=rss&utm_medium=feed&utm_campaign=safjan-blog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- TROPHY -->
